@@ -1,4 +1,9 @@
 new change
 changes for branch
+<<<<<<< HEAD
 changes made in master branch
 ffnsdjnvjsHi! I'm Alice. I'm a file someone added to this repository a while ago.
+=======
+changes made in pre_prod brach...
+ffnsdjnvjsHi! I'm Alice. I'm a file someone added to this repository a while ago.
+>>>>>>> pre_prod
